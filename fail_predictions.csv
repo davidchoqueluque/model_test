@@ -1,0 +1,3 @@
+antiguedad_vehiculo,cal_gral,ctd_ent_sbs,des_marca,des_clase,des_modelo,flag_cross,id_persona,id_vehiculo,mto_ratio_saldo_ingreso,mto_ratio_saldo_tc_ingreso,mto_ratio_saldo_veh_ingreso,mto_saldo_sbs,mto_scoring_ingreso_prom,mto_valor_actual,mto_valor_actual_usuario,nse,num_anio_fabricacion,num_edad,participacion_deuda_vehicular,score_siniestralidad,val_scoring_ingreso,ground_truth,pred
+,NORMAL,2,SUBARU,AUTOMOVIL,XV,False,AX-16538005,,0,0,0,0,6529,,40331,B2,2023,27,,1. VERDE,12.51465,JM,RM
+,NORMAL,2,SUBARU,AUTOMOVIL,XV,False,AX-16538005,,0,0,0,0,6529,,40331,B2,2023,27,,1. VERDE,12.51465,AM,RM
